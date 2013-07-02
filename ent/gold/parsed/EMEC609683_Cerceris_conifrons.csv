@@ -1,0 +1,6 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,683",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,Cerceris conifrons Mick.,,,,,,,,,,,,,,male,H.A.Scullen,61,,
+primary,,E.G Linsley,,8-8 59,,,,"1.5mi,NE,Portal
+8-8 59ARIZ5000'",,Arizona,,,,1959-08-08,,,,,,,,on Acacia,5000'

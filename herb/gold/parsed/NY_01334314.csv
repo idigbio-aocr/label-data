@@ -1,0 +1,6 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
+barcode,01334314,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
+determination,,,,,B. floridana Gand.,,,,,,,,,,Buchnera floridana Gand.,,,,,FWP,1931,1931
+determination,,,,,B e. obtusa Pennell,,,,,,,,,,Buchnera elongata var. obtusa Pennell,,,,,FWP.,1949,1949
+primary,,A. H. CURTISS,,"MARCH, APRIL AND MAY, 1903",Buchnera elongata Sw.,THE NEW YORK BOTANICAL GARDEN,,"Nassau and vicinity, N. P. Bahamas",Bahamas,,,,,1903-03/1903-05,Buchnera elongata Sw.,,,,,,,

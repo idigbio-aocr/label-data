@@ -1,0 +1,5 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,EMEC 609.9J2,,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,,,,,,,,,,,,,,,,,,,
+primary,,J.Doyen,,V-2-/4,,,,"CALIF:S.L.O.Co.,v -, Dune Lakes, 3 mi ! S.Oceano",,California,San Luis Obispo,,,,,,,salix,,,,,

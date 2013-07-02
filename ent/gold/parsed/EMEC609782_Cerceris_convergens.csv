@@ -1,0 +1,6 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,782",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,Cerceris convergens V.& C.,,,,,,,,,,,,,,male,H.A.Scullen,55,,
+primary,,P. D. Hurd,,27 June 1951,,,,"Alpuyeca,
+Morelos,Mex.",,Mexico,,,,1951-06-27,,,,,,,,,

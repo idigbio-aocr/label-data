@@ -1,0 +1,6 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,526",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,Cerceris compacta compacta Cr.,,,,,,,,,,,,,,male,H.A.Scullen,1967,,
+primary,,D.H.Janzen,,VI-11-1962,,,,"10 mi. S. Caborca
+Son. Mexico",Mexico,,,,,1962-06-11,,,,,,,,,

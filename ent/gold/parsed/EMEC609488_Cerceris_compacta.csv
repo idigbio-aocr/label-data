@@ -1,0 +1,5 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,488",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,Cerceris compacta Cr.,,,,,,,,,,,,,,female,H. A. Scullen,1958,,
+primary,,P. D. Hurd,,1951-07-11,,,,"10 km.W.of Zitacuaro,  Mich.,Mex.",Mexico,,,,,1951-07-11,,,,,,,,,

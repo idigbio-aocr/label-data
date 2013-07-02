@@ -1,0 +1,8 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,826",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,Cerceris convergens V.& C.,,,,,,,,,,,,,,male,H.A.Scullen,57,,
+primary,,M.Wasbauer,,IV-27-54,,,,"Borego
+San Diego Co.,
+Calif.",,California,San Diego,,,1954-04-27,,,,"Croton
+californicus",,,,,

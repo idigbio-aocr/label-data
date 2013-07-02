@@ -1,0 +1,8 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,952",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,,,,,,,,,,,,,,,,,,,
+primary,,H. V. Daly,,"May 10, 1991",,,,"CA:Contra Costa Co.
+Kensington, 690 ft.
+37 deg 54' 26"" N
+122 deg 16' 32"" W",,,,"37 deg 54' 26"" N","122 deg 16' 32"" W",1991-05-10,,37.90722,-122.27556,Malaise Trap,,,,,690 ft.

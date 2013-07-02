@@ -1,0 +1,5 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,916",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,,,,,,,,,,,,,,,,,,,
+primary,,R. Wharton,,V-8,,,,"CALIF:Monterey Co. 5 air mi SW Greenfield,Arroyo Sf co River 400’",,California,Monterey,,,,,,,trap,,,,,400'

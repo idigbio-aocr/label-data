@@ -1,0 +1,8 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,705",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,Cerceris conifrons Mickel,,,,,,,,,,,,,,female,JM Davidson,68,,
+primary,,"J.M. Davidson
+M.A. Cazier",,VI-28-66,Paraeyella filifolia Torr.&Gray,,,"Hotevilla
+Navajo Co.Ariz
+7000'",Arizona,Navajo,,,,1953-04-22/23,,,,,,,,,7000'

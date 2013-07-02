@@ -1,0 +1,9 @@
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,,,,,,,,,,,,,,,,,,
+barcode,"EMEC 609,874",,,,,U.C. Berkeley,,,,,,,,,,,,,,,,,
+determination,,,,,Cerceris convergens V.& C.,,,,,,,,,,,,,,female,H.A.Scullen,67,,
+primary,,P. D. Hurd,,VII-4-66,,,,"MEX:Baja Calif.
+Sur, La Pas, 7
+mi. SW,",,,,,,1966-07-04,,,,"Wislizenia
+refracta
+var. mammillata",,,,,
