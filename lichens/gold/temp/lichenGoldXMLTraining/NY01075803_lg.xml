@@ -2,7 +2,8 @@
     <lbx:ot> From the FARLOW HERBARIUM , HARVARD UNIVERSITY </lbx:ot>
     <dwc:datasetName>Lichens from the Tuckerman Herbarium</dwc:datasetName>
     <aocr:verbatimInstitution>NEW YORK BOTANICAL GARDEN</aocr:verbatimInstitution>
-    <lbx:ot>Verrucaria lactea Garov . =Polyblastiopsis lactea(Mass .)A .Zahlbr . </lbx:ot>
+    <lbx:ot>Verrucaria lactea Garov . = </lbx:ot>
+    <dwc:scientificName>Polyblastiopsis lactea(Mass .)A .Zahlbr .</dwc:scientificName>
     <dwc:verbatimLocality>Santee Canal</dwc:verbatimLocality>
     <lbx:ot>, Coll . </lbx:ot>
     <dwc:recordedBy>H .W .Ravenel </dwc:recordedBy>
