@@ -1,4 +1,4 @@
-"aocr:regionType","dwc:catalogNumber","aocr:verbatimRecordedBy","dwc:recordedBy","dwc:recordNumber","dwc:verbatimEventDate","aocr:verbatimScientificName","aocr:verbatimInstitution","dwc:datasetName","dwc:verbatimLocality","dwc:country","dwc:stateProvince","dwc:county","dwc:municipality","dwc:verbatimLatitude","dwc:verbatimLongitude","dwc:eventDate","dwc:scientificName","dwc:decimalLatitude","dwc:decimalLongitude","dwc:fieldNotes","dwc:sex"
-"curatorial",,,,,,,"The New York Botanical Garden",,,,,,,,,,,,,,
-"barcode","01497989",,,,,,"NEW YORK BOTANICAL GARDEN",,,,,,,,,,,,,,
-"primary",,"M.López Figueiras","M.López Figueiras",425,"March 23, 1952","Linociera domingensis (Lam.) Knobl.","HERBARIO DEL COLEGIO DE LA SALLE VEDADO-HABANA",,"Wayside, near La Idalia, Gran Piedra, Oriente.",,"Oriente",,,,,"1952-03-23","Linociera domingensis (Lam.) Knobl.",,,,
+aocr:regionType,dwc:catalogNumber,aocr:verbatimRecordedBy,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex
+curatorial,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,
+barcode,01497989,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,
+primary,,M.López Figueiras,M.López Figueiras,425,"March 23, 1952",Linociera domingensis (Lam.) Knobl.,HERBARIO DEL COLEGIO DE LA SALLE VEDADO-HABANA,,"Wayside, near La Idalia, Gran Piedra, Oriente.",,Oriente,,,,,1952-03-23,Linociera domingensis (Lam.) Knobl.,,,,
