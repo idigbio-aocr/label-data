@@ -1,6 +1,5 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:identifiedby,dwc:dateIdentified,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:verbatimElevation,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:habitat
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:identifiedby,dwc:dateIdentified,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:verbatimElevation,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:habitat,dwc:sex
 curatorial,,,,,,,,THE NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
 barcode,01498039,,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
 determination,,,,,,,,,,,,,,,,,,,,,,,,
-primary,,HAROLD E. BOX,,,1427,7th. May. 1938.,Olea europea L.,Ex Herb. Mus. Brit.,FLORA OF ANTIGUA,Vernon's.,,,,,,,,1938-05-07,Olea europea L.,,,,,"Two trees are known to me, both on Vernons Estate (limestone district). They are obviously very old but are growing well. Not seen in flower
-or fruit."
+primary,,HAROLD E. BOX,,,.1427,7th. May. 1938.,Olea europea L.,Ex Herb. Mus. Brit.,FLORA OF ANTIGUA,Vernon's.,,,,,,,,1938-05-07,Olea europea L.,,,,"Two trees are known to me, both on Vernons Estate (limestone district). They are obviously very old but are growing well. Not seen in flower or fruit.",
