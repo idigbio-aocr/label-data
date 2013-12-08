@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,01498124,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-primary,,Ruben & Diane Sauleda (with R. & J. Lassiter),3746,"July 22, 1980",Polypremum procumbens L.,Herbarium FAIRCHILD TROPICAL GARDEN,PLANTS OF THE WEST INDIES,"Bahamas: Great Abaco, in dry soil around main buildings at Sandy Point airstrip.",Bahamas,,,,,1980-07-22,Polypremum procumbens L.,,,in dry soil,,D.S.Correll,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordedBy2,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
+curatorial,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
+barcode,01498124,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
+primary,,Ruben & Diane Sauleda,R. & J. Lassiter,3746,"July 22, 1980",Polypremum procumbens L.,Herbarium FAIRCHILD TROPICAL GARDEN,PLANTS OF THE WEST INDIES,"Bahamas: Great Abaco, in dry soil around main buildings at Sandy Point airstrip.",Bahamas,,,,,1980-07-22,Polypremum procumbens L.,,,in dry soil,,D.S.Correll,,

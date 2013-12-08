@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,00198945,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-primary,,STEWARDSON BROWN N. L. BRITTON E. J. WORTLEY,1674,"SEPT., 1913",Gastonia cutispongia Lam.,NEW YORK BOTANICAL GARDEN ACADEMY OF NATURAL SCIENCES OF PHILADELPHIA BERMUDA DEPARTMENT OF AGRICULTURE,EXPLORATION OF BERMUDA,Bellevue,BERMUDA,,,,,1913-09,Gastonia cutispongia Lam.,,,Planted,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordedBy2,dwc:recordedBy3,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
+curatorial,,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
+barcode,00198945,,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
+primary,,STEWARDSON BROWN  ,N. L. BRITTON,E. J. WORTLEY,1674,"SEPT., 1913",Gastonia cutispongia Lam.,NEW YORK BOTANICAL GARDEN ACADEMY OF NATURAL SCIENCES OF PHILADELPHIA BERMUDA DEPARTMENT OF AGRICULTURE,EXPLORATION OF BERMUDA,Bellevue,BERMUDA,,,,,1913-09,Gastonia cutispongia Lam.,,,Planted,,,,

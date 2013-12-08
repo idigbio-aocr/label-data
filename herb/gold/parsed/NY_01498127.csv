@@ -1,7 +1,7 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-curatorial,,,,,,COLLEGE OF PHARMACY HERBARIUM DEPOSITED 1948 IN THE NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-barcode,01498127,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-primary,,Dr. Edward Palmer,613,July-October. 1886.,Polypremum procumbens L.,,MEXICAN FLORA.,STATE OF JALISCO. GUADALAJARA,,JALISCO,,,,1886-07/10,Polypremum procumbens L.,,,,,,,
-primary,,"C.C. PARRY,  ED. PALMER",59,1878,Polypremum procumbens L.,,CENTRAL MEXICAN FLORA.,"CHIEFLY IN THE REGION OF SAN LUIS POTOSI. 22° N. Lat. Altitude 6,000-8,000 ft.",,,, 22° N. Lat.,,1878,Polypremum procumbens L.,,,,,,,
-primary,,C. WRIGHT,3633,,Polypremum procumbens L,,Plantae Cubenses Wrightianae.,,,,,,,,Polypremum procumbens L.,,,,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,dwc:verbatimEventDate2,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
+curatorial,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+curatorial,,,,,,,COLLEGE OF PHARMACY HERBARIUM DEPOSITED 1948 IN THE NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+barcode,01498127,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+primary,,Dr. Edward Palmer,613,July-October. ,1886,"Polypremum procumbens, L.",,MEXICAN FLORA.,STATE OF JALISCO. ,GUADALAJARA,,JALISCO,,,,1886-07/10,Polypremum procumbens L.,,,,,,,
+primary,,"C.C. PARRY,  ED. PALMER",59,1878,,Polypremum procumbens L.,,CENTRAL MEXICAN FLORA.,CHIEFLY IN THE REGION OF SAN LUIS POTOSI. ,"22° N. Lat. Altitude 6,000-8,000 ft.",,,,22° N. Lat.,,1878,Polypremum procumbens L.,,,,,,,
+primary,,C. WRIGHT,3633,,,Polypremum procumbens L,,Plantae Cubenses Wrightianae.,,,,,,,,,Polypremum procumbens L.,,,,,,,
