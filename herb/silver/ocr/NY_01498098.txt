@@ -1,29 +1,15 @@
-﻿0 1 2 3 4 5 6 7 8 9 10
-cm	copyright reserved	
-The New York
-Botanical Garden
-
-
-NEW YORK
-BOTANICAL
-GARDEN
-
-
-THE NEW YORK BOTANICAL GARDEN			WI
-Corolla		EXPLORATION OF CUBA			275
-white		PROVINCE OF HAVANA
-WET COASTAL SAVANNA, BATABANO
-NO13350
-Cynoctonum mitreola (L.) Britton
-Muddy soil
-N.L. BRITTON
-J.F. COWELL		}COLLECTORS
-CARLOS DE LA TORRE		April 12, 1912
-
-
-Mitreola petiolata (J.F. Gmel.) Torr. & Gray
-Det. A.J.M. Leeuwenberg, 1974 Herbarium Vadense (WAG)
-
-
+﻿y
 NEW YORK BOTANICAL GARDEN
-01498098
+	III I	II	I		jB
+014		I98098			// l/l
+Mitreola petiolata (J. F. Gmel.) Torr. & Gray
+Det. A. J. M. Leeuwenberg, 197-tyHerbarium Vadense (WAG)
+THE NEW YORK BOTANICAL GARDEN
+EXPLORATION OF CUBA
+Province of Havana Wet coastal savanna, Batabano
+uL <i,Co
+N. L, Britton	\	/
+j. f. Cowell	¿Collectors
+Carlos de la torre '	April 12,1912
+u>X
+.2 #5*

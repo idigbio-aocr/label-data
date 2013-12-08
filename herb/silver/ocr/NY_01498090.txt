@@ -1,32 +1,15 @@
-﻿0 1 2 3 4 5 6 7 8 9 10
-cm	copyright reserved	
-The New York
-Botanical Garden
-
-
-WI
-275
-
-
+﻿6 7 8 9 10 The New York
+copyright reserved botanical Garden
+botanical ^
+iARDE^y
+NEW YORK BOTANICAL GARDEN
+01498090
 PLANTS OF BAHAMA ISLANDS
-Mitreola petiolata (J. F. Gmel.) T. & G.
-
-New Providence: in marsh between Highland Park
-and Bay Street.
-
+Mitreola petiolata (J.F. Gmel.) T. § G.
+New Providence: in marsh between Highland Park] and Bay Street.
 Plants 1.5 m tall.
 June 7, 1979
-
-D.S. Correll 50709
-
+D. S. Correli 50709
 Herbarium
 FAIRCHILD TROPICAL GARDEN
-
-
-NEW YORK
-BOTANICAL
-GARDEN
-
-
-NEW YORK BOTANICAL GARDEN
 01498090

@@ -1,39 +1,19 @@
-0 1 2 3 4 5 6 7 8 9 10		
-cm	copyright reserved	
-The New York
-Botanical Garden
-
-
-The University of Texas Herbarium (LL, TEX)
-Capraria biflora L.
+Ôªø6 7 8 9 10 ^
+. , ,	The New York
+copyright reserved Botanical Garden
+The University of Texas Herbarium (LL, TEX) Capraria biflora L.
 Det: J. Williams & B.L. Turner, 30 Jul 1996
-
-
-288
-WI
-
-
-JARDIN BOTANICO NACIONAL "DR. RAFAEL M. MOSCOSO"
-SANTO DOMINQO, REPUBLICA DOMINICANA
-
+ITANICAI GARDEN
+34438
+JAIOIN BOTANICO NACIONAL ‚ÄúDR. RAFAEL M. MOSCOSO"
+SANTO OOMINOO, REPUBLICA DOMINICANA
 349	Scrophulariaceae
-
-Capraria biflora L.
-
-Herb·cea de 25-35cm; flores con la corola
-blanca, frutos verdes.
-
-Rep. Dominicana: Distrito Nacional; Ciudad
-de Santo Domingo; JardÌn Bot·nico Nacional,
-en el ·rea del "Herbolario".
-23 Ene, 1985
-R. GarcÌa, F. Jimenez	Cultivada
-
-
-NEW YORK
+Capraria biflora l.
+Herb√°cea de 25-35cm; flores con la corola blanca, frutos verdes.
+Rep. Daninicana: Distrito Nacional; Ciudad de Santo Domingo; Jard√≠n Bot√°nico Nacional, en el √°rea del "Herbolario".
+23 Ene, 1985	‚Ä¢
+R. Garc√≠a, F. Jimenez	Clllt iv&d<!
+<¬£eMS/ YO^
 BOTANICAL
-GARDEN
-
-
-NEW YORK BOTANICAL GARDEN
+QARDet*
 01334438

@@ -1,31 +1,19 @@
-﻿0 1 2 3 4 5 6 7 8 9 10
-cm	copyright reserved	
+﻿0 1
+I cm
+6 7 8 9 10 L XT „
 The New York
-Botanical Garden
-
-
-NEW YORK
-BOTANICAL
-GARDEN
-
-
-SMITHSONIAN INSTITUTION
-FROM THE UNITED STATES NATIONAL HERBARIUM
-
-
+copyright reserved Botanical Garden
+SMITHSONIAN From THE UNITED STATES
+INSTITUTION ; NATIONAL
+HERBARIUM
 PLANTS OF HAITI
-BIOLOGICAL EXPLORATION CONDUCTED BY DR. W. L. ABBOTT
-Cynoctonum mitreola(L.)Britton
-=Mitreola petiolata Torr & Gray
-
-Vicinity of Fond Parisien, Etang Saumatre
-
-No. 4194	E.C.LEONARD, Collector	May 5-13,1920
-
-
+J BIOI,0C ICAI/iiXI’LOKATION COîÎK»CTI?D lnTEp. W.l£ ABBOT*yf J Jf 1 fy —
 Mitreola petiolata (J. F. Gmel.) Torr. & Gray
-Det. A.J.M. Leeuwenberg, 1974 Herbarium Vadense (WAG)
-
-
-NEW YORK BOTANICAL GARDEN
+Det. A. J. M. Leeuwenberg, 197Îy Herbarium Vadense (WAG)
+Vicinity of Fond Parisien, Etang Sa uniat re
+U
+No.
+E. C. LEOÎ
+ONARD, Collector
+May 5-13,1920
 01498087

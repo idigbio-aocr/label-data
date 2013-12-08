@@ -1,41 +1,17 @@
-0 1 2 3 4 5 6 7 8 9 10		
-cm	copyright reserved	
-The New York
-Botanical Garden
-
-
-NEW YORK
-BOTANICAL
-GARDEN
-
-
-REVISION OF JUSSIAEA
-J. suffruticosa L. var. octofila (DC.) ined.
-pubescens (L.)
+﻿REVISION OF JUSSIAEA J. suffruticosa L. . errJhtf\JU_. (. B-e-^) a*h|.
 Philip A. Munz	, 1939
-
-
-THE NEW YORK BOTANICAL GARDEN
-EXPLORATION OF PORTO RICO
-
-Vicinity of Aguirre
-
-No. 6485
-Jussiaea angustifolia Lam.
-Mangrove Swamp.
-
-N. L BRITTON
-F. S. EARLE COLLECTORS
-March 11, 1922
-
-
-Ludwigia octovalavis (Jacq.) Raven
-Determined by T.P.  Ramamoorthy 1980
-Missouri Botanical Garden
-
-
-NY IMAGED
-
-
+<8>
+IMAGED
 NEW YORK BOTANICAL GARDEN
+Ludwigia octovalvis (Jacq.) Raven Determined by T*p* Ramamoorthy 1980
+Missouri Botanical Garden
+008
+19627
+THE NEW YORK BOTANICAL GARDEN EXPLORATION OF PORTO RICO .	Vicinity of Aguirre
+/■ y,. *
+___________
+N. L BRITTON I
+F. S. EARLE f coLLECTORS
+March 11. 1922
+t
 00819627

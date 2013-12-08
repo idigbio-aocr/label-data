@@ -1,30 +1,13 @@
-0 1 2 3 4 5 6 7 8 9 10		
-cm	copyright reserved	
+﻿6 7 8 9 10 T XT v
 The New York
-Botanical Garden
-
-269
-WI
-
-The New York Botanical Garden
-PLANTS OF NAVASSA ISLAND
-
-Sideroxylon americanum (Mill.) T. D. Penn.
-
-tree to ca. 5 m; fruit green
-
-18�24'N, 75�01'W; N of lighthouse, near end of trail;
-dry vegetation dominated by Metopium, Ficus, and Sideroxylon, over rough limestone.
+copyright reserved botanical Garden
+IMAGE
+The New York Botanical Garden PLANTS OF NAVASSA ISLAND
+Sideroxylon americanum (Mill.) T. D. Penn, tree to ca. 5 m; fruit green
+18°24’N, 75°01’W; N of lighthouse, near end of trail; dry vegetation dominated by Metopium, Ficus, and Sideroxylon, over rough limestone.
 NEW YORK BOTANICAL GARDEN
-26 July 1998
+26	July 1998
 00227183
-
 William R. Buck and Thomas A. Zanoni 34256
-
-
-NEW YORK
 BOTANICAL
-GARDEN
-
-
-NY IMAGED
+GARDE**

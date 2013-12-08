@@ -1,32 +1,11 @@
-0 1 2 3 4 5 6 7 8 9 10		
-cm	copyright reserved	
-The New York
-Botanical Garden
-
-
-WI
-288
-
-
-JARDIN BOTANICO DR. RAFAEL M. MOSCOSO
-SANTO DOMINGO
-REPUBLICA DOMINICANA
-
-NO. 22351 FAMILIA
-Linosella subulata Ives.
-Det. ? R. Lowden, 1975.-
-
-Herb�cea acaule; las flores verdosas. En
-un charco, Valle Nuevo, San Jos� de Ocoa.
-Altura 2100 m.-
-
+﻿YO
+BOTANICAL ^^ARDE
+NE_W_YOR_K BOTANICAL GARDEN
+01334493
+NO. 2235 1 FAMILIA__
+Lifliosella subulata Ivés. Det. ? R. Lowden, 1975*-
+Herbácea acaule; las flores verdosas. En un charco, Valle Nuevo, San José de Ocoa. Altura 21OO m.-
 Col. R. Lowden, 20 enero 1975.-
-
-
-NEW YORK
-BOTANICAL
-GARDEN
-
-
-NEW YORK BOTANICAL GARDEN
+JARDIN BOTANICO DR. RAFAEL M. MOSCOSO
+SANTO DOMINGO REPUBLICA DOMINICANA
 01334493
