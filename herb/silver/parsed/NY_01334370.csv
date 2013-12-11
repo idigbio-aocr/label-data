@@ -1,4 +1,4 @@
-"aocr:regionType","dwc:catalogNumber","aocr:verbatimrecordedBy","dwc:recordNumber","dwc:verbatimEventDate","aocr:verbatimidentifiedBy","aocr:verbatimDateIdentified","aocr:verbatimScientificName","aocr:verbatimInstitution","dwc:datasetName","dwc:verbatimLocality","dwc:country","dwc:stateProvince","dwc:county","dwc:municipality","dwc:verbatimLatitude","dwc:verbatimLongitude","dwc:fieldNotes","dwc:sex"
-"determination",,,,,"J. Williams & B.L. Tumer","30 Jul 1996","Capraria biflora L.","The University of Texas Herbarium (LL, TEX)",,,,,,,,,,
-"primary",,"N. L. Britton F. S. Earle Percy Wilson",,"Maroh 24,25,1910",,,,"THE NEW YORK BOTANICAL GARDEN","EXPLORATION OF CUBA","Province of Santa Clara Rio San Juan",,"Santa Clara",,,,,,
-"barcode","01334370",,,,,,,,,,,,,,,,,
+aocr:regionType,dwc:catalogNumber,aocr:verbatimrecordedBy,aocr:verbatimrecordedBy2,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimidentifiedBy,aocr:verbatimDateIdentified,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:fieldNotes,dwc:sex
+determination,,,,,,J. Williams & B.L. Tumer,30 Jul 1996,Capraria biflora L.,"The University of Texas Herbarium (LL, TEX)",,,,,,,,,,
+primary,,N. L. Britton F. S. Earle,Percy Wilson,,"Maroh 24,25,1910",,,,lTHE NEW YORK BOTANICAL GARDEN,EXPLORATION OF CUBA,Province of Santa Clara Rio San Juan,,Santa Clara,,,,,,
+barcode,01334370,,,,,,,,,,,,,,,,,,
