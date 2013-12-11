@@ -1,6 +1,6 @@
-"aocr:regionType","dwc:catalogNumber","aocr:verbatimrecordedBy","dwc:recordNumber","dwc:verbatimEventDate","aocr:verbatimidentifiedBy","aocr:verbatimDateIdentified","aocr:verbatimScientificName","aocr:verbatimInstitution","dwc:datasetName","dwc:verbatimLocality","dwc:country","dwc:stateProvince","dwc:county","dwc:municipality","dwc:verbatimLatitude","dwc:verbatimLongitude","dwc:eventDate","dwc:scientificName","dwc:decimalLatitude","dwc:decimalLongitude","dwc:fieldNotes","dwc:sex"
-"curatorial",,,,,,,,"HERBARIUM OF DEPAUW UNIVERSITY (DPU)",,,,,,,,,,,,,,
-"curatorial",,,,,,,,,"HERBARIUM T. G. YUNCKER",,,,,,,,,,,,,
-"determination",,,,,"J. Williams & B.L. Turner","30 Jul 1996","Capraria biflora L.","The University of Texas Herbarium (LL, TEX)",,,,,,,,,,,,,,
-"primary",,"T. G. YUNCKER","18,186","Feb. 15, 1958",,,"Capraria biflora L«",,"PLANTS OF JAMAICA","Parish: St* Thomas Montego Poin-t-Alt. 0-20 ft.",,"St* Thomas",,,,,,,,,"Shrub, about 2 ft. high} flowers white, faintlv tinged with pink. In open area,",
-"barcode","01334383",,,,,,,,,,,,,,,,,,,,,
+aocr:regionType,dwc:catalogNumber,aocr:verbatimrecordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimidentifiedBy,aocr:verbatimDateIdentified,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex
+curatorial,,,,,,,,TRUMAN G. YUNCKER HERBARIUM OF DEPAUW UNIVERSITY (DPU),,,,,,,,,,,,,,,
+curatorial,,,,,,,,,HERBARIUM T. G. YUNCKER,,,,,,,,,,,,,,
+determination,,,,,J. Williams & B.L. Turner,30 Jul 1996,Capraria biflora L.,"The University of Texas Herbarium (LL, TEX)",,,,,,,,,,,,,,,
+primary,,T. G. YUNCKER,18186,"Feb. 15, 1958",,,Capraria biflora L«,,PLANTS OF JAMAICA,Parish: St* Thomas,Montego Poin-t-Alt. 0-20 ft.,,St* Thomas,,,,,,,,,"Shrub, about 2 ft. high} flowers white, faintlv tinged with pink. In open area,",
+barcode,01334383,,,,,,,,,,,,,,,,,,,,,,

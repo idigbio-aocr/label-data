@@ -1,6 +1,6 @@
-"aocr:regionType","dwc:catalogNumber","aocr:verbatimrecordedBy","dwc:recordNumber","dwc:verbatimEventDate","aocr:verbatimidentifiedBy","aocr:verbatimDateIdentified","aocr:verbatimScientificName","aocr:verbatimInstitution","dwc:datasetName","dwc:verbatimLocality","dwc:country","dwc:stateProvince","dwc:county","dwc:municipality","dwc:verbatimLatitude","dwc:verbatimLongitude","dwc:eventDate","dwc:scientificName","dwc:decimalLatitude","dwc:decimalLongitude","dwc:fieldNotes","dwc:sex"
-"curatorial",,,,,,,,,,,,,,,,,,,,,,
-"curatorial",,,,,,,,,,,,,,,,,,,,,,
-"determination",,,,," J. Williams & B.L. Turner","30 Jul 1996","Capraria biflora L.","The University of Texas Herbarium (LI* TEX)",,,,,,,,,,,,,,
-"primary",," A.L.Stoffers",1572,"17 Jan. 1953","A.L.Stoffers","Dec. 1953","Capraria ""biflora L.",,"ex HERB. ACAD. RHENO-TRAI.","Along roads near Noord, Aruba Neth,Antilies.","Aruba",,,,,,,,,,"Along roads",
-"barcode","01334389",,,,,,,,,,,,,,,,,,,,,
+aocr:regionType,dwc:catalogNumber,aocr:verbatimrecordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimidentifiedBy,aocr:verbatimDateIdentified,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex
+curatorial,,,,,,,,,,,,,,,,,,,,,,
+curatorial,,,,,,,,,,,,,,,,,,,,,,
+determination,,,,,J. Williams & B.L. Turner,30 Jul 1996,Capraria biflora L.,The University of Texas Herbarium (LI* TEX),,,,,,,,,,,,,,
+primary,, A.L.Stoffers,1572,17 Jan. 1953,A.L.Stoffers,Dec. 1953,"Capraria ""biflora L.",,ex HERB. ACAD. RHENO-TRAI.,"Along roads near Noord, Aruba Neth,Antilies.",Aruba,,,,,,,,,,Along roads,
+barcode,01334389,,,,,,,,,,,,,,,,,,,,,
