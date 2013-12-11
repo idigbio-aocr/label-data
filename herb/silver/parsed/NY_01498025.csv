@@ -1,23 +1,15 @@
-"aocr:regionType","dwc:catalogNumber","dwc:recordedBy","dwc:recordNumber","dwc:verbatimEventDate","aocr:verbatimScientificName","aocr:verbatimInstitution","dwc:datasetName","dwc:verbatimLocality","dwc:country","dwc:stateProvince","dwc:county","dwc:verbatimLatitude","dwc:verbatimLongitude","dwc:eventDate","dwc:scientificName","dwc:decimalLatitude","dwc:decimalLongitude","dwc:fieldNotes","dwc:sex","dwc:identifiedBy","dwc:dateIdentified","dwc:habitat","dwc:verbatimElevation"
-"curatorial",,,,,,"Y
-
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,dwc:habitat,dwc:verbatimElevation
+curatorial,,,,,,"Y
 P W
-
 O
-
 */C
-
 BOTANICAL
-
 ©A
-
 EN
-
 R
-
 D",,,,,,,,,,,,,,,,,
-"barcode","01498025",,,,,"NEW YORK BOTANICAL GARDEN",,,,,,,,,,,,,,,,,
-"determination",,,,,,,,,,,,,,,,,,,,,,,
-"determination",,,,,,,,,,,,,,,,,,,,,,,
-"determination",,,,,,,,,,,,,,,,,,,,,,,
-"primary",,"CC. WEIGHT",,"1860 — 1864.",,,"Plaula* Cuheuscs Wrightiance.",,,,,,,"1860/1864",,,,,,,,,
+barcode,01498025,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+determination,,,,,,,,,,,,,,,,,,,,,,,
+determination,,,,,,,,,,,,,,,,,,,,,,,
+determination,,,,,,,,,,,,,,,,,,,,,,,
+primary,,CC. WEIGHT,,1860 — 1864.,,,Plaula* Cuheuscs Wrightiance.,,,,,,,1860/1864,,,,,,,,,
