@@ -1,4 +1,4 @@
-"aocr:regionType","dwc:catalogNumber","aocr:verbatimrecordedBy","dwc:recordNumber","dwc:verbatimEventDate","aocr:verbatimidentifiedBy","aocr:verbatimDateIdentified","aocr:verbatimScientificName","aocr:verbatimInstitution","dwc:datasetName","dwc:verbatimLocality","dwc:country","dwc:stateProvince","dwc:county","dwc:municipality","dwc:verbatimLatitude","dwc:verbatimLongitude","dwc:fieldNotes","dwc:sex"
-"curatorial",,,,,,,,"BOTANICAL GARDet*",,,,,,,,,,
-"primary",,"George R* Proctor with	BurtQn",48285,"Aug. 8, 1992",,,"Aeallnis Kings11 Proctor",,"FLORA OF THE CAYMAN ISLANDS ","Grand Cayman Open narshjr ground along S. side of the Salina Reserve.",,"Grand Cayman",,,,,"Erect branched herb, locally frequent; corolla pink<",
-"barcode","00385378",,,,,,,"NEW YORK BOTANICAL GARDEN",,,,,,,,,,
+aocr:regionType,dwc:catalogNumber,aocr:verbatimrecordedBy,aocr:verbatimrecordedBy2,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimidentifiedBy,aocr:verbatimDateIdentified,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:fieldNotes,dwc:sex
+curatorial,,,,,,,,,BOTANICAL GARDet*,,,,,,,,,,,
+primary,,"George R* Proctor,",with	BurtQn,48285,"Aug. 8, 1992",,,Aeallnis Kings11 Proctor,,FLORA OF THE CAYMAN ISLANDS ,Grand Cayman,Open narshjr ground along S. side of the Salina Reserve.,,Grand Cayman,,,,,"Erect branched herb, locally frequent; corolla pink<",
+barcode,00385378,,,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,

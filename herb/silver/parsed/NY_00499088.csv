@@ -1,3 +1,3 @@
-"aocr:regionType","dwc:catalogNumber","aocr:verbatimrecordedBy","dwc:recordNumber","dwc:verbatimEventDate","aocr:verbatimidentifiedBy","aocr:verbatimDateIdentified","aocr:verbatimScientificName","aocr:verbatimInstitution","dwc:datasetName","dwc:verbatimLocality","dwc:country","dwc:stateProvince","dwc:county","dwc:municipality","dwc:verbatimLatitude","dwc:verbatimLongitude","dwc:fieldNotes","dwc:sex"
-"barcode","00499088",,,,,,,,,,,,,,,,,
-"primary",,"N. L. Britton J E. Q. Britton 0.8. Gager",,"SEPT, 5-12, 1910",,,,"THE'NEW YORK BOTANICAL GARDEN","EXPLORATION OF CUBA","Provinoe of Pinar del Rio ft.yVicinity OF PiNAB del Rio",,"Pinar del Rio",,,,,,
+aocr:regionType,dwc:catalogNumber,aocr:verbatimrecordedBy,aocr:verbatimrecordedBy2,aocr:verbatimrecordedBy3,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimidentifiedBy,aocr:verbatimDateIdentified,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:fieldNotes,dwc:sex
+barcode,00499088,,,,,,,,,,,,,,,,,,,
+primary,,N. L. Britton J,E. Q. Britton,0.8. Gager,,"SEPT, 5-12, 1910",,,,THE'NEW YORK BOTANICAL GARDEN,EXPLORATION OF CUBA,Provinoe of Pinar del Rio ft.yVicinity OF PiNAB del Rio,,Pinar del Rio,,,,,,
