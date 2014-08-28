@@ -1,4 +1,4 @@
-﻿pmi	IMI	1
+pmi	IMI	1
 2 1	3 t	4
 U.C. Berkeley ■I EMEC 609,914
 ‘*1 -	Baja Calif.

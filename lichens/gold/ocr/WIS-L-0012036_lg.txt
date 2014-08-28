@@ -3,7 +3,7 @@
 Cetraria laevigata Rass.
 Location: 		Chisik Island, Cook Inlet 
 	Kenai (A7) Quadrangle
-Lat/Long: 		60°09'N, 152°36'W
+Lat/Long: 		60Â°09'N, 152Â°36'W
 Elevation: 	1800 Feet
 Site:			Vaccinium uliginosum erect dwarf shrub tundra
 Coll:			Stephen Talbot & Sandra Looman

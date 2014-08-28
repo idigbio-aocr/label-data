@@ -3,7 +3,7 @@
 Cetraria laevigata Rass.
 
 Location 	Selawik NWR
-Latitude 	66°33'41.6" N Longitude 158°59'56.6" W 	Elevation 11ft
+Latitude 	66Â°33'41.6" N Longitude 158Â°59'56.6" W 	Elevation 11ft
 Habitat 	On feathermosses in Picea mariana-Vaccinium uliginosum/V. 
 		vitis-idaea-Pleurozium schreberi woodland
 Quad. Map 	Shungnak (C-6) Alaska		coll. Date 19 July 2003

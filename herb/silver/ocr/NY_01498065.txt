@@ -1,4 +1,4 @@
-﻿Io 1
+Io 1
 I cm
 8 9 10
 The New York

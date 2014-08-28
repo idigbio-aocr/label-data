@@ -3,7 +3,7 @@
 	Cetraria pinatri (Scop.) S. Gray
 
 Location 	Selawik NWR
-Latitude 	66°50'13.8" N 	Longitude 161°38'03.3" W 	Elevation 10 ft 
+Latitude 	66Â°50'13.8" N 	Longitude 161Â°38'03.3" W 	Elevation 10 ft 
 Habitat 	Epiphytic on Alnus viridis
 
 Quad. Map 	Selawik (D-5) Alaska			Coll. Date 28 July 2003

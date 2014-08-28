@@ -4,7 +4,7 @@ Cetraria nigricans (Retz) Nyl
 
 Location	Simeonof Is.; Shumagin Islands, Alaska; NE slope of Hill 
 		1265
-Latitude	54° 53.977' N 	Longitude 159° 16.879' W 	Elevation 260 m
+Latitude	54Â° 53.977' N 	Longitude 159Â° 16.879' W 	Elevation 260 m
 Habitat 	On boulder ridge in Salix rotundifolia-Racomitrium 
 		lanuginosum tundra
 Quad. Map 	Simeonof Island (D-1), Alaska 	coll. Date 17 July 1995 

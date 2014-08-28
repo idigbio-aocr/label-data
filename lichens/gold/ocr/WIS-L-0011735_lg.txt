@@ -1,6 +1,6 @@
 Name Cetraria islandica (L.) Ach, I.G. :601606
-Nom					48° 24'
-					86° 11'
+Nom					48Â° 24'
+					86Â° 11'
 Family
 Famille
 Habitat On sandy beach in exposed area often with
@@ -12,7 +12,7 @@ Recueilli par
 Determined by H.L. Dickson		Oct. 1974
 Identifie par
 Number				Access No.
-Numero 				N° de reference
+Numero 				NÂ° de reference
 Herbarium of	PUKASKWA NATIONAL PARK National Park
 Herbier du pare national du
 NPC 82 (10-69) 7690-21-023-4210

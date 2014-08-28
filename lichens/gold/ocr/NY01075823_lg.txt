@@ -2,7 +2,7 @@
 Arthopyrenia majuscula (Nyl.) Zahlbr.
 
 Locality: Franklin County, Florida. USA.Little St. George 
-Island, Cape St. George. 29°35'N, 85°03'W. In stable 
+Island, Cape St. George. 29Â°35'N, 85Â°03'W. In stable 
 backdunes and swales of barrier island.
 Habitat: on Ilex cassine at pond edge
 
@@ -12,6 +12,6 @@ May 26, 1998
 		01075823
 	The New York Botanical Garden 
 
-Arthopyrenia cinchonae (Ach.) Müll. Arg. 
+Arthopyrenia cinchonae (Ach.) MÃ¼ll. Arg. 
 
 	Det. Richard C. Harris, 2003
