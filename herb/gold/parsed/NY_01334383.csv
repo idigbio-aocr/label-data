@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,aocr:VerbatimdateIdentified
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,dwc:dateIdentified,aocr:verbatimDateIdentified
 curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
 curatorial,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
 curatorial,,,,,,DEPAUW UNIV. HERBARIUM.,,,,,,,,,,,,,,,,,

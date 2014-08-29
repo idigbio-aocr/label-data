@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:identifiedby,dwc:dateIdentified,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:verbatimElevation,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:habitat
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:identifiedBy,dwc:dateIdentified,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:verbatimElevation,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:habitat
 curatorial,,,,,,,,THE NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
 barcode,01498080,,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
 determination,,,A.J.M. Leeuwenberg,1974,,,Mitreola petiolata (J. F. Gmel.) Torr. & Gray,Herbarium Vadense (WAG),,,,,,,,,,,,,,,,

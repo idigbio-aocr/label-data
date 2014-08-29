@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:identifiedby,dwc:dateIdentified,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:verbatimElevation,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:habitat,dwc:sex
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:identifiedBy,dwc:dateIdentified,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:verbatimElevation,dwc:stateProvince,dwc:county,dwc:municipality,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:habitat,dwc:sex
 curatorial,,,,,,,,,,,,,,,,,,,,,,,,
 barcode,01497997,,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
 determination,,,C & M,1939,,,Linociera domingensis (Lam.) Knobl.,,,,,,,,,,,,,,,,,
