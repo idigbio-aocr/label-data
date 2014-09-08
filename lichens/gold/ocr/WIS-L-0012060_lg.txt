@@ -7,5 +7,5 @@ Latitude 	54° 54.875' N Longitude 159° 15.470' W	Elevation 250 m
 Habitat 	On mosses in Anemone narcissiflora meadow below 
 		mountain ridge on south-facing slope
 Quad. Map 	Simeonof Island (D-1), Alaska 	Coll. Date 14 July 1995
-Collector 	Stephen S. Talbot			#071
+Collector 	Stephen S. Talbot			# 071
 Det. 		John W. Thomson 1997

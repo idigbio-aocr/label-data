@@ -1,18 +1,18 @@
 		LICHENS OF SOUTHEAST ALASKA 
-		U.S.D.A. FOREST SERVICE HERBARIUM		345
-									TNFS# L-
+		U.S.D.A. FOREST SERVICE HERBARIUM
+									TNFS# L- 345
 SCIENTIFIC NAME: Cetrelia cetrarioides (Delise ex Duby) Culb & C. Culb 
 
 L.Geiser / J.Thomson 1992
 			(Determined)	(Year)	(Verified)
-Forest/Expt. area: 	Tongass National Forest/Stikine-LeConte Wilderness 
+FOREST/EXPT. AREA: 	Tongass National Forest/Stikine-LeConte Wilderness 
 LOCALITY: 	Mainland, Stikine R., Limb Is., near Elbow Slough Petersburg C-l,
 		Section 14NE, T60S, R83E
-Assoc. Plants: 	picea sitchensis, Populus trichocarpa Oplopanax horridum,
+ASSOC. PLANTS: 	picea sitchensis, Populus trichocarpa Oplopanax horridum,
 			Circaea alpina, Dryopteris austriaca
 								Alt. (m .) <30
 NOTES: on P. trichocarpa
 MAT. CHEM.:				CHEMICAL TESTS:
 
 L.Geiser						26 July 1989
-( Collector)		(Number)		(Date)
+(Collector)		(Number)		(Date)

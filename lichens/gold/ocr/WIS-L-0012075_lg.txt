@@ -1,6 +1,6 @@
 	AKFWS HERBARIUM ** FLORA of ALASKA	458
 
-	Cetraria pinatri (Scop.) S. Gray
+	Cetraria pinastri (Scop.) S. Gray
 
 Location 	Selawik NWR
 Latitude 	66°50'13.8" N 	Longitude 161°38'03.3" W 	Elevation 10 ft 

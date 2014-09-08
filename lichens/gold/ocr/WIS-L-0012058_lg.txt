@@ -1,10 +1,10 @@
-	AKFWS HERBARIUM ** FLORA of ALASKA
+	AKFWS HERBARIUM ** FLORA of ALASKA      228A
 
-Cetraria laevigata
+Cetraria laevigata Rass.
 
 Location 	Selawik NWR
-Latitude 	66°33,41.6"N Longitude 158° 59'56.6" W 	Elevation 11ft
-Habitat 	Eriophorum vaginatum-Ledum decumbens-Rubus 
+Latitude 	66°33'41.6"N Longitude 158°59'56.6"W 	Elevation 11 ft
+Habitat 	Eriophorum vaginatum-Ledum decumbens-Rubus
 		chamaemorus-Sphagnum bog
 Quad. Map 	Shungnak (C-6) Alaska		Coll. Date 19 July 2003
 Collector 	Stephen S. Talbot		# 228A

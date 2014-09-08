@@ -1,5 +1,5 @@
 		FLORA OF ALASKA 		1035
-Cetraria kamtczatica Savicz
+Cetraria kamczatica Savicz
 Location: 	Chisik Island, Cook Inlet 
 	Kenai (A7) Quadrangle
 Lat/Long: 60°09'N, 152°36'W
@@ -8,4 +8,4 @@ Site:		Cliff margin at summit
 Coll:		Stephen Talbot & Sandra Looman 
 		#1035		5 September 1987
 		U.S. Fish and Wildlife Service, Anchorage, AK
-Det: 1988
+Det: JWT 1988

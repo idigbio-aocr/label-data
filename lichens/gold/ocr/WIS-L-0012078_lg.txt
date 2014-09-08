@@ -1,5 +1,5 @@
-		AKFWS HERBARIUM ** FLORA of ALASKA
-	Cetraria
+		AKFWS HERBARIUM ** FLORA of ALASKA   305
+	Cetraria delisei (Bory) Th. Fr.
 Location 	St. Paul Island, Alaska; 0.5 km E of Rush Hill 
 Latitude 57° 10.485'N 	Longitude 170° 21.802' W 	Elevation 60 m
 Habitat On mosses over boulder at caldera bottom

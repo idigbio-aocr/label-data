@@ -4,14 +4,15 @@
 SCIENTIFIC NAME: Cetraria islandica (L.) Ach.
 		C. Derr 1992	B. McCune
 		(Determined) (Year)	( Verified)
-Forest/expt. area: Tongass National Forest/ Stikine Area 
-Locality: 	Mitkof Is. Crystal Mt. NE Ridge, Petersburg C-3, Section 18NW, 
+FOREST/EXPT. AREA: Tongass National Forest/ Stikine Area 
+LOCALITY: 	Mitkof Is. Crystal Mt. NE Ridge, Petersburg C-3, Section 18NW, 
 	T61S, R81E
-Assoc. plants: 	Tsuga mertensiana, Vaccinium ssp., Picea sitchensis, 
+ASSOC. PLANTS: 	Tsuga mertensiana, Vaccinium ssp., Picea sitchensis, 
 	Phyllodoce galnduliflora, Empetrum nigrum,
 				ALT. (m.) 805
 NOTES: on ground
 MAT. CHEM.:			CHEMICAL TESTS:
+                            P-
 
 C. Derr						1 Aug 1991
-(Cottcctor)		(Number)		(Date)
+(Collector)		(Number)		(Date)

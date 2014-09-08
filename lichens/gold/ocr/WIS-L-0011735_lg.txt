@@ -1,4 +1,4 @@
-Name Cetraria islandica (L.) Ach, I.G. :601606
+Name Cetraria islandica (L.) Ach. I.G.:601606
 Nom					48° 24'
 					86° 11'
 Family
@@ -7,12 +7,12 @@ Habitat On sandy beach in exposed area often with
 	Juniperus horizontalis. 
 Locality Fisherman's beach at Oiseau Bay.
 Endroit
-Collector  C.E. Garton: 16199	Date 16 Aug. 1974
+Collector  C.E. Garton:16199	Date 16 Aug. 1974
 Recueilli par
-Determined by H.L. Dickson		Oct. 1974
-Identifie par
+Determined by H.L. Dickson		Date Oct. 1974
+Identifié par
 Number				Access No.
-Numero 				N° de reference
+Numero 				N° de référence
 Herbarium of	PUKASKWA NATIONAL PARK National Park
-Herbier du pare national du
+Herbier du parc national de
 NPC 82 (10-69) 7690-21-023-4210

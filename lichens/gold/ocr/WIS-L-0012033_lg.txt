@@ -1,6 +1,7 @@
 						468
-		AKFWS HERBARIUM FLOBA OF ALASKA
-Cetraria kamzetica Sauicz
+		AKFWS HERBARIUM
+		FLORA OF ALASKA
+Cetraria kamczatica Savicz
 Location: 	Cape Wrangell, Attu Island, Aleutian
 		Islands; 52°55.4'N, 172°28.0'E
 Habitat: 	Rock cliff outcrop

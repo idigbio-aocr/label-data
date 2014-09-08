@@ -3,7 +3,7 @@
 		FLORA OF ALASKA
 Cetraria kamczatica Savicz
 Location: 	Chisik Island, Tuxedni Bay, Cook Inlet;
-		60°09.5'N, 152°36.O'W
+		60°09.5'N, 152°36.0'W
 Habitat: 	Vaccinium uliginosum - Empetrum nigrum
 		heath; slope 6°; SE exposure; rounded 
 		summit

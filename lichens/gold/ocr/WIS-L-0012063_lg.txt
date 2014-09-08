@@ -1,15 +1,15 @@
 		LICHENS OF SOUTHEAST ALASKA	Dup
 		U.S.D.A. FOREST SERVICE HERBARIUM
-							TNFS# L-	526
+							TNFS# L- 526
 SCIENTIFIC NAME:: Cetraria nigricans Nyl.
 				K.Dillman	1992
 				(Determined) (Year)	(Verified)
-Forest/Expt. Area: 	Tongass National Forest/Stikine-Le Conte Wilderness 
-Locality. 	Thunder Mountain, Petersburg Quad D-2, Sec 13 SW, T 58 S, R 81E 
-Assoc. plants: 	Cassiope stelleriana, C.mertensiana, Loiseleuria procumbens
+FOREST/EXPT. AREA: 	Tongass National Forest/Stikine-Le Conte Wilderness 
+LOCALITY: 	Thunder Mountain, Petersburg Quad D-2, Sec 13 SW, T 58 S, R 81E 
+ASSOC. PLANTS: 	Cassiope stelleriana, C.mertensiana, Loiseleuria procumbens
 
 						ALT. (m.) 914
-Notes: on exposed rock
+NOTES: on exposed rock
 MAT. CHEM.:				CHEMICAL TESTS:
 K.Dillman					4 July 1992
 (Collector)	(Number)		(Date)

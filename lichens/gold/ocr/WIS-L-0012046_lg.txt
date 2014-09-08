@@ -1,9 +1,9 @@
-	AKFWS HERBARIUM ** FLORA of ALASKA
-Cetraria laeviagata Rass
+	AKFWS HERBARIUM ** FLORA of ALASKA        094B
+Cetraria laeviagata Rassad.
 Location 	Glory of Russia Cape area, St. Matthew Island, Alaska
-Latitude 	60° 33.582'N Longitude 172° 56.445' W 	Elevation 30m 
+Latitude 	60° 33.582'N Longitude 172° 56.445'W 	Elevation 30 m 
 Habitat 	On peat mound in Carex aquatilis-Salix peatland
 
-Quad. Map 	St. Matthew, Alaska Quad.		coll. Date 19 July 1997
+Quad. Map 	St. Matthew, Alaska Quad.		Coll. Date 19 July 1997
 Collector 	Stephen & Sandra Talbot			# SM97-094B
 Det. 		John W. Thomson 1998

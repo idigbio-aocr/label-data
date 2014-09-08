@@ -1,12 +1,11 @@
-		 Michigan
-	FLORA OF 
+	FLORA OF Michigan
 No.		 Bryophytes
 Alectoria nidulifera
 
 Substratum On Jack pine
 Loc.	Pike Lake, Luce Co
-Coll	A.J. Sharp
-Det.		Date 20 July l956
+Coll.	A.J. Sharp      Alt.
+Det.		            Date 20 July l956
 HERBARIUM OF THE UNIVERSITY OF TENNESSEE
 
 University of Tennessee (TENN)

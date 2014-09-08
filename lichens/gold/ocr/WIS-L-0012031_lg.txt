@@ -2,7 +2,7 @@
 		AKFWS HERBARIUM FLORA OF ALASKA
 Cetraria kamczatica Savicz
 Location: 	Chisik Island, Tuxedni Bay, Cook Inlet;
-		60°09.7‘ N, 152°36.7'W
+		60°09.7'N, 152°36.7'W
 Habitat: 	Cladina rangiferina-Arctostaphylos
 		alpina heath: slope 4°; East exposure; 
 		rounded summit

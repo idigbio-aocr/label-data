@@ -1,7 +1,7 @@
-	AKFWS HERBARIUM ** FLORA of ALASKA
+	AKFWS HERBARIUM ** FLORA of ALASKA   082
 
-Asahinea Cetrelia alaskana (Culb. & les. Culb.) 
-						Culb. & Culb.
+Cetrelia alaskana (Culb. & les. Culb.) 
+						W. Culb. & C. Culb.
 
 Location 	St. Paul Island, Alaska; 0.5 km NE of Telegraph Hill
 Latitude 	57° 09.478' N Longitude 170° 15.812' W 	Elevation 100 m 
