@@ -1,7 +1,7 @@
 		LICHENES EXSICCATI
 	Distributed by the University of Colorado Museum, Boulder
 
-		No. I. Acarospora badiofusca (Nyl.) Th.. Fr.
+		No. 1. Acarospora badiofusca (Nyl.) Th.. Fr.
 
 Lich. Arctoi 90. I860. — Lecanora badiojusca Nyl., Herb. Mus. Fenn.
 110. 1859 - Acarospora boulderensis Magn. in Goteb. Kgl. Vet. Handl.
@@ -11,7 +11,7 @@ descr. et Isotypus No. 1385 in Bryologist 17: 62. 1914. — A. irregularis
 Magn., Monogr. Acar. 229. 1929.
 
 U.S.A. COLORADO. BOULDER COUNTY: on arkosic boulders, Pinus ponderosa 
-forest, base of "Flatirons", alt. 1,900 m, foothills of Front Range just south of Boul.
+forest, base of "Flatirons", alt. 1,900 m, foothills of Front Range just south of Boul-
 der (the type locality of A. boulderensis)
 1 March 1961			W. A. Weber
 
