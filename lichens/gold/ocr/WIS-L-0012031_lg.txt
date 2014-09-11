@@ -8,5 +8,5 @@ Habitat: 	Cladina rangiferina-Arctostaphylos
 		rounded summit
 Elevation: 2640 ft
 Collector: Stephen & Sandra Talbot 	# 88003-26 
-Hap/Quad.: Kenai (A-7) Quad. 	Date: 30 Aug 1988 
+Map/Quad.: Kenai (A-7) Quad. 	Date: 30 Aug 1988 
 	Det. : John W.Thomson

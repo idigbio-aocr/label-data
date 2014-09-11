@@ -8,7 +8,7 @@ L.Geiser / J.Thomson 1992
 FOREST/EXPT. AREA: 	Tongass National Forest/Stikine-LeConte Wilderness 
 LOCALITY: 	Mainland, Stikine R., Limb Is., near Elbow Slough Petersburg C-l,
 		Section 14NE, T60S, R83E
-ASSOC. PLANTS: 	picea sitchensis, Populus trichocarpa Oplopanax horridum,
+ASSOC. PLANTS: 	Picea sitchensis, Populus trichocarpa Oplopanax horridum,
 			Circaea alpina, Dryopteris austriaca
 								Alt. (m .) <30
 NOTES: on P. trichocarpa
