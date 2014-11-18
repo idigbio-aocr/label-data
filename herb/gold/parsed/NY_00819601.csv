@@ -1,7 +1,7 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,00819601,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-determination,,,,,Ludwigia peploides (HBK.) Raven subsp. peploides,Missouri Botanical Garden,,,,,,,,,Ludwigia peploides (HBK.) Raven subsp. peploides,,,,,Elsa Zardini,1986,1986
-determination,,,,,J. repens L. var. peploides (HBK) Griseb.,,REVISION OF JUSSIAEA,,,,,,,,Jussiaea repens L. var. peploides (HBK) Griseb.,,,,,Philip A. Munz,1939,1939
-primary,,J. A. Shafer,1971,"MARCH 13, 1913",Jussiaea diffusa Forssk,NEW YORK BOTANICAL GARDEN CARNEGIE INSTITUTION OF WASHINGTON UNITED STATES NATIONAL MUSEUM,WEST INDIAN EXPLORATION 1913,"Guayanilla to Tallahoa, Porto Rico",Porto Rico,,,,,1913-03-13,Jussiaea diffusa Forssk,,,In water.,,,,
-determination,,,,,Ludwigia sect. Oligospermum,Missouri Botanical Garden,,,,,,,,,,,,,,T.P. Ramamoorthy,1980,1980
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+barcode,00819601,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+determination,,,,,Ludwigia peploides (HBK.) Raven subsp. peploides,Missouri Botanical Garden,,,,,,,,,Ludwigia peploides (HBK.) Raven subsp. peploides,,,,,Elsa Zardini,1986,1986,
+determination,,,,,J. repens L. var. peploides (HBK) Griseb.,,REVISION OF JUSSIAEA,,,,,,,,Jussiaea repens L. var. peploides (HBK) Griseb.,,,,,Philip A. Munz,1939,1939,
+primary,,J. A. Shafer,1971,"MARCH 13, 1913",Jussiaea diffusa Forssk,NEW YORK BOTANICAL GARDEN CARNEGIE INSTITUTION OF WASHINGTON UNITED STATES NATIONAL MUSEUM,WEST INDIAN EXPLORATION 1913,"Guayanilla to Tallahoa, Porto Rico",Porto Rico,,,,,1913-03-13,Jussiaea diffusa Forssk,,,In water.,,,,,
+determination,,,,,Ludwigia sect. Oligospermum,Missouri Botanical Garden,,,,,,,,,,,,,,T.P. Ramamoorthy,1980,1980,

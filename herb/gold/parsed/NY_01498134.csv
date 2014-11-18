@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,01498134,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-primary,,OTTO E. JENNINGS.,502,May 22,Polypremum procumbens L.,"CARNEGIE MUSEUM, PITTSBURGH, PA.","PLANTS OF THE ISLE OF PINES EXPEDITION OF CARNEGIE MUSEUM, MAY, 1910",Near Caleta Grande on south coast,,,,,,1910-05-22,Polypremum procumbens L.,,,,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+barcode,01498134,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+primary,,OTTO E. JENNINGS.,502,May 22,Polypremum procumbens L.,"CARNEGIE MUSEUM, PITTSBURGH, PA.","PLANTS OF THE ISLE OF PINES EXPEDITION OF CARNEGIE MUSEUM, MAY, 1910",Near Caleta Grande on south coast,,,,,,1910-05-22,Polypremum procumbens L.,,,,,,,,

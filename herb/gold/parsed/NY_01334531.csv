@@ -1,6 +1,6 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-curatorial,,,,,,"HERBARIUM COLUMBIA UNIVERSITY, NEW YORK.",,,,,,,,,,,,,,,,
-barcode,01334531,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-primary,,H. H. & G. W. Smith,228,"March, 1890",Vandellia diffusa L.,EX HERB. HORT. REG. KEW.,,ST. VINCENTS:,ST. VINCENTS,,,,,1890-03,Vandellia diffusa L.,,,,,,,
-determination,,,,,Lindernia diffusa (L.) Wettst.,"University of North Carolina, Chapel Hill",REVISIONARY STUDIES IN LINDERNIA ALLIONI,,,,,,,,,,,,,D. A. Qualls,15 June 1984,1984-06-15
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+curatorial,,,,,,"HERBARIUM COLUMBIA UNIVERSITY, NEW YORK.",,,,,,,,,,,,,,,,,
+barcode,01334531,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+primary,,H. H. & G. W. Smith,228,"March, 1890",Vandellia diffusa L.,EX HERB. HORT. REG. KEW.,,ST. VINCENTS:,ST. VINCENTS,,,,,1890-03,Vandellia diffusa L.,,,,,,,,
+determination,,,,,Lindernia diffusa (L.) Wettst.,"University of North Carolina, Chapel Hill",REVISIONARY STUDIES IN LINDERNIA ALLIONI,,,,,,,,,,,,,D. A. Qualls,15 June 1984,1984-06-15,

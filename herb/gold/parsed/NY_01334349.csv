@@ -1,6 +1,6 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,01334349,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-determination,,,,,B. longifolia Kunth,,,,,,,,,,Buchnera longifolia Kunth,,,,,KAV,1986,1986
-primary,,W. L. ABBOTT,2217,"April 5-17,1922",Buchnera elongata Sw.,SMITHSONIAN INSTITUTION From THE UNITED STATES NATIONAL HERBARIUM,PLANTS OF THE DOMINICAN REPUBLIC,"Vicinity of San Francisco de Macorís, Provincia Pacificador; altitude 400 to 1000 meters",DOMINICAN REPUBLIC,Provincia Pacificador,,,,1922-04-05/1922-04-17,Buchnera elongata Sw.,,,,,,,
-determination,,,,,Buchnera longifolia HBK,The New York Botanical Garden,,,,,,,,,Buchnera longifolia Kunth,,,,,T. Zanoni,1-1989,1989-01
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+barcode,01334349,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+determination,,,,,B. longifolia Kunth,,,,,,,,,,Buchnera longifolia Kunth,,,,,KAV,1986,1986,
+primary,,W. L. ABBOTT,2217,"April 5-17,1922",Buchnera elongata Sw.,SMITHSONIAN INSTITUTION From THE UNITED STATES NATIONAL HERBARIUM,PLANTS OF THE DOMINICAN REPUBLIC,"Vicinity of San Francisco de Macorís, Provincia Pacificador; altitude 400 to 1000 meters",DOMINICAN REPUBLIC,Provincia Pacificador,,,,1922-04-05/1922-04-17,Buchnera elongata Sw.,,,,,,,,400 to 1000 meters
+determination,,,,,Buchnera longifolia HBK,The New York Botanical Garden,,,,,,,,,Buchnera longifolia Kunth,,,,,T. Zanoni,1-1989,1989-01,

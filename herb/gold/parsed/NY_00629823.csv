@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
-barcode,00629823,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
-primary,,N. L. Britton J. F. Cowell,,"Feb. 11, 12, 1914",Avena sativa L.,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF PORTO RICO,Vicinity of San Juan,"Railroad yard, San Juan",PORTO RICO,San Juan,,,,1914-02-11/1914-02-12,Avena sativa L.,,,,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,,
+barcode,00629823,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,,
+primary,,N. L. Britton J. F. Cowell,,"Feb. 11, 12, 1914",Avena sativa L.,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF PORTO RICO,Vicinity of San Juan,"Railroad yard, San Juan",PORTO RICO,San Juan,,,,1914-02-11/1914-02-12,Avena sativa L.,,,,,,,,

@@ -1,6 +1,6 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordedBy2,dwc:recordedBy3,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
-barcode,01334370,,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
-determination,,,,,,,Capraria biflora L.,"The University of Texas Herbarium (LL, TEX)",,,,,,,,,,Capraria biflora L.,,,,,J. Williams & B.L. Turner,30 Jul 1996,1996-07-30
-determination,,,,,,,"C. b., f. hirta Loes.",,,,,,,,,,,,,,,,FWP.,1919,1919
-primary,,N. L. Britton,F. S. Earle,Percy Wilson,5847,"March 24, 25, 1910",Capraria biflora L,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF CUBA,Province of Santa Clara Rio San Juan,Border of mangrove swamp.,CUBA,Province of Santa Clara,,,,1910-03-24/1910-03-25,Capraria biflora L.,,,1m. high,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordedBy2,dwc:recordedBy3,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,,
+barcode,01334370,,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,,
+determination,,,,,,,Capraria biflora L.,"The University of Texas Herbarium (LL, TEX)",,,,,,,,,,Capraria biflora L.,,,,,J. Williams & B.L. Turner,30 Jul 1996,1996-07-30,
+determination,,,,,,,"C. b., f. hirta Loes.",,,,,,,,,,,,,,,,FWP.,1919,1919,
+primary,,N. L. Britton,F. S. Earle,Percy Wilson,5847,"March 24, 25, 1910",Capraria biflora L,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF CUBA,Province of Santa Clara Rio San Juan,Border of mangrove swamp.,CUBA,Province of Santa Clara,,,,1910-03-24/1910-03-25,Capraria biflora L.,,,1m. high,,,,,

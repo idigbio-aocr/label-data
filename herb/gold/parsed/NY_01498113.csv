@@ -1,9 +1,9 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-curatorial,,,,,,COLLEGE OF PHARMACY HERBARIUM,,,,,,,,,,,,,,,,
-barcode,01498112,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-barcode,01498113,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-determination,,,,,Mitreola petiolata (J.F. Gmel.) Torr. & Gray,Herbarium Vadense (WAG),,,,,,,,,Mitreola petiolata (J.F. Gmel.) Torr. & A. Gray,,,,,A.J.M. Leeuwenberg,1974,1974
-determination,,,,,Cynoctonum mitreola (L.)Britt.,,,,,,,,,,Cynoctonum mitreola (L.) Britton,,,,,,,
-primary,,,960,27.III.1885,Mitreola petiolata Torr et Gr.,,P. SINTENIS: PLANTAE PORTORICENSES.,"Bayamon, in arenosis maritimus ad Cataño.",,,,,,1885-03-27,Mitreola petiolata (J.F. Gmel.) Torr. & A. Gray,,,,,I. URBAN,,
-primary,,C. WRIGHT,389,1860-1864,Meitreola petiolata Torr. Gray,,Plantae Cubenses Wrightianae,,,,,,,1860/1864,Mitreola petiolata (J.F. Gmel.) Torr. & A. Gray,,,,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+curatorial,,,,,,COLLEGE OF PHARMACY HERBARIUM,,,,,,,,,,,,,,,,,
+barcode,01498112,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+barcode,01498113,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+determination,,,,,Mitreola petiolata (J.F. Gmel.) Torr. & Gray,Herbarium Vadense (WAG),,,,,,,,,Mitreola petiolata (J.F. Gmel.) Torr. & A. Gray,,,,,A.J.M. Leeuwenberg,1974,1974,
+determination,,,,,Cynoctonum mitreola (L.)Britt.,,,,,,,,,,Cynoctonum mitreola (L.) Britton,,,,,,,,
+primary,,,960,27.III.1885,Mitreola petiolata Torr et Gr.,,P. SINTENIS: PLANTAE PORTORICENSES.,"Bayamon, in arenosis maritimus ad Cataño.",,,,,,1885-03-27,Mitreola petiolata (J.F. Gmel.) Torr. & A. Gray,,,,,I. URBAN,,,
+primary,,C. WRIGHT,389,1860-1864,Meitreola petiolata Torr. Gray,,Plantae Cubenses Wrightianae,,,,,,,1860/1864,Mitreola petiolata (J.F. Gmel.) Torr. & A. Gray,,,,,,,,

@@ -1,7 +1,7 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordedBy2,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
-barcode,00819622,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
-determination,,,,,,Ludwigia peploides (HBK.) Raven subsp. Peploides,Missouri Botanical Garden,,,,,,,,,,Ludwigia peploides (HBK.) Raven subsp. Peploides,,,,,Elsa Zardini,1986,1986
-determination,,,,,,Ludwigia sect. Oligospermum,Missouri Botanical Garden,,,,,,,,,,,,,,,T.P. Ramamoorthy,1980,1980
-determination,,,,,,J. repens L. var. peploides (HBK) Griseb.,,REVISION OF JUSSIAEA,,,,,,,,,Jussiaea repens L. var. peploides (HBK) Griseb.,,,,,Philip A. Munz,1939,1939
-primary,,N. L. Britton B. H. Dutcher,Stewardson Brown,5722,"March 23, 1915",Jussiaea diffusa Forsk.,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF PORTO RICO,Loiza,Sandy coastal marsh,PORTO RICO,Loiza,,,,1915-03-23,Jussiaea diffusa Forsk.,,,,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordedBy2,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:verbatimLocality2,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,,
+barcode,00819622,,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,,
+determination,,,,,,Ludwigia peploides (HBK.) Raven subsp. Peploides,Missouri Botanical Garden,,,,,,,,,,Ludwigia peploides (HBK.) Raven subsp. Peploides,,,,,Elsa Zardini,1986,1986,
+determination,,,,,,Ludwigia sect. Oligospermum,Missouri Botanical Garden,,,,,,,,,,,,,,,T.P. Ramamoorthy,1980,1980,
+determination,,,,,,J. repens L. var. peploides (HBK) Griseb.,,REVISION OF JUSSIAEA,,,,,,,,,Jussiaea repens L. var. peploides (HBK) Griseb.,,,,,Philip A. Munz,1939,1939,
+primary,,N. L. Britton B. H. Dutcher,Stewardson Brown,5722,"March 23, 1915",Jussiaea diffusa Forsk.,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF PORTO RICO,Loiza,Sandy coastal marsh,PORTO RICO,Loiza,,,,1915-03-23,Jussiaea diffusa Forsk.,,,,,,,,

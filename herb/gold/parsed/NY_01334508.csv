@@ -1,5 +1,5 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,01334508,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-determination,,,,,Lindernia crustacea (L.) F.v. Muell.,"University of North Carolina,Chapel Hill",REVISIONARY STUDIES IN LINDERNIA ALLIONI,,,,,,,,Lindernia crustacea (L.) F. Muell.,,,,,D. A. Qualls,15 June 1984,1984-06-15
-primary,,Brother Alain Liogier,10875,"April 30, 1964",Lindernia crustacea (L.) F. Muell.,THE NEW YORK BOTANICAL GARDEN,Plants of Puerto Rico,"Waste grounds, Bayamon.",Puerto Rico,,,,,1964-04-30,Lindernia crustacea (L.) F. Muell.,,,Trailing; flowers violet and white.,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+barcode,01334508,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+determination,,,,,Lindernia crustacea (L.) F.v. Muell.,"University of North Carolina,Chapel Hill",REVISIONARY STUDIES IN LINDERNIA ALLIONI,,,,,,,,Lindernia crustacea (L.) F. Muell.,,,,,D. A. Qualls,15 June 1984,1984-06-15,
+primary,,Brother Alain Liogier,10875,"April 30, 1964",Lindernia crustacea (L.) F. Muell.,THE NEW YORK BOTANICAL GARDEN,Plants of Puerto Rico,"Waste grounds, Bayamon.",Puerto Rico,,,,,1964-04-30,Lindernia crustacea (L.) F. Muell.,,,Trailing; flowers violet and white.,,,,,

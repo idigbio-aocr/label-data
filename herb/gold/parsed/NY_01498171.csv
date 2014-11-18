@@ -1,6 +1,6 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,01498171,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-determination,,,,,Spigelia anthelmia L.,,,,,,,,,,Spigelia anthelmia L.,,,,,F.J. FERNÁNDEZ CASAS,31-V-2001,2001-05-31
-determination,,,,,Spigelia anthelmia L.,APPALACHIAN STATE UNIVERSITY HERBARIUM,,,,,,,,,Spigelia anthelmia L.,,,,,Homer Hurley,12/68,1968-12
-primary,,J.K. SMALL J.J. CARTER,8924,"FEBRUARY 4-5, 1910",Spigelia anthelmia L.,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF THE BAHAMAS,"COPPICE, NEAR NICHOLL'S TOWN, NORTHERN SECTION, ANDROS",BAHAMAS,,,,,1910-02-04/1910-02-05,Spigelia anthelmia L.,,,low herb; on sand dune,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+barcode,01498171,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+determination,,,,,Spigelia anthelmia L.,,,,,,,,,,Spigelia anthelmia L.,,,,,F.J. FERNÁNDEZ CASAS,31-V-2001,2001-05-31,
+determination,,,,,Spigelia anthelmia L.,APPALACHIAN STATE UNIVERSITY HERBARIUM,,,,,,,,,Spigelia anthelmia L.,,,,,Homer Hurley,12/68,1968-12,
+primary,,J.K. SMALL J.J. CARTER,8924,"FEBRUARY 4-5, 1910",Spigelia anthelmia L.,THE NEW YORK BOTANICAL GARDEN,EXPLORATION OF THE BAHAMAS,"COPPICE, NEAR NICHOLL'S TOWN, NORTHERN SECTION, ANDROS",BAHAMAS,,,,,1910-02-04/1910-02-05,Spigelia anthelmia L.,,,low herb; on sand dune,,,,,

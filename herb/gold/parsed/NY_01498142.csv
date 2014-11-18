@@ -1,4 +1,4 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-barcode,01498142,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-primary,,D.S. Correll,46023,"August 18, 1975",Polypremum procumbens L.,Herbarium FAIRCHILD TROPICAL GARDEN,PLANTS OF BAHAMA ISLANDS,Great Inagua: on flat gravelly soil along canal near Lighthouse just south of Matthew Town.,BAHAMA ISLANDS,,,,,1975-08-18,Polypremum procumbens L.,,,on flat gravelly soil along canal,,,,
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+barcode,01498142,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+primary,,D.S. Correll,46023,"August 18, 1975",Polypremum procumbens L.,Herbarium FAIRCHILD TROPICAL GARDEN,PLANTS OF BAHAMA ISLANDS,Great Inagua: on flat gravelly soil along canal near Lighthouse just south of Matthew Town.,BAHAMA ISLANDS,,,,,1975-08-18,Polypremum procumbens L.,,,on flat gravelly soil along canal,,,,,

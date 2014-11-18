@@ -1,7 +1,7 @@
-aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified
-curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,
-curatorial,,,,,,EX HERB. HORT. REG. KEW.,,,,,,,,,,,,,,,,
-barcode,01334433,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,
-primary,,C. WRIGHT,375,1860,Capraria biflora L.,,Plantæ Cabenses Wrightianæ.,"in Cuba Orientali, prope",Cuba,,,,,1860,Capraria biflora L.,,,,,,,
-determination,,,,,C. b. f. hirta Loes,,,,,,,,,,,,,,,FWP.,1919,1919
-determination,,,,,Capraria biflora L.,"The University of Texas Herbarium (LL, TEX)",,,,,,,,,Capraria biflora L.,,,,,J. Williams & B.L.Turner,30 Jul 1996,1996-07-30
+aocr:regionType,dwc:catalogNumber,dwc:recordedBy,dwc:recordNumber,dwc:verbatimEventDate,aocr:verbatimScientificName,aocr:verbatimInstitution,dwc:datasetName,dwc:verbatimLocality,dwc:country,dwc:stateProvince,dwc:county,dwc:verbatimLatitude,dwc:verbatimLongitude,dwc:eventDate,dwc:scientificName,dwc:decimalLatitude,dwc:decimalLongitude,dwc:fieldNotes,dwc:sex,dwc:identifiedBy,aocr:verbatimDateIdentified,dwc:dateIdentified,dwc:verbatimElevation
+curatorial,,,,,,The New York Botanical Garden,,,,,,,,,,,,,,,,,
+curatorial,,,,,,EX HERB. HORT. REG. KEW.,,,,,,,,,,,,,,,,,
+barcode,01334433,,,,,NEW YORK BOTANICAL GARDEN,,,,,,,,,,,,,,,,,
+primary,,C. WRIGHT,375,1860,Capraria biflora L.,,Plantæ Cabenses Wrightianæ.,"in Cuba Orientali, prope",Cuba,,,,,1860,Capraria biflora L.,,,,,,,,
+determination,,,,,C. b. f. hirta Loes,,,,,,,,,,,,,,,FWP.,1919,1919,
+determination,,,,,Capraria biflora L.,"The University of Texas Herbarium (LL, TEX)",,,,,,,,,Capraria biflora L.,,,,,J. Williams & B.L.Turner,30 Jul 1996,1996-07-30,
