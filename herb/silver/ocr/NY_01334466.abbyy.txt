@@ -1,13 +1,13 @@
-■ ■■■■ ■ ■■■	O 1 cm	23456789 10 copyright reserved	The New York Botanical Garden
-			
+﻿■ ■■ 0	1	23456789	10	£ 1 v
+The New York
+■ ■■■£ cm	copyright	reserved	Botanical	Garden
 card
-NEW YORK BOTANICAL GARDEN
-0
-334466
-PERCY WILSON, COLLECTOR.
-CAICOS ISLANDS, South Caicos. DEC. 14-16, 1 907.
 NEW YORK BOTANICAL GARDEN FIELD MUSEUM OF NATURAL HISTORY
 EXPLORATION OF THE BAHAMAS.
 The University of Texas Herbarium (LL, TEX) Capraria biflora L.
 Det: J. Williams & B.L. Tumer, 30 Jul 1996
+NEW YORK BOTANICAL GARDEN
+01334466
+PERCY WILSON, COLLECTOR.
+CAICOS ISLANDS, South Caicos. DEC. 14-16, 1907.
 01334466

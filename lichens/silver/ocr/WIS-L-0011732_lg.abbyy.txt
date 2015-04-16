@@ -1,15 +1,6 @@
-AKFWS HERBARIUM ** FLORA of ALASKA [3-L
-
- kd-M4.C/5(1}'1:Co~ Q4 SL6?)
-I- 9-» CL
-
+﻿AKFWS HERBARIUM ** FLORA of ALASKA {
+T- f- C-
 Location Glory of Russia Cape area, St. Matthew Island, Alaska
-Latitude 50° 33-579' N Longitude 172° 56-891' W Elevation 30 m
-Habitat Empetrum nigrum-Cladina heath at base of mountain
-
-Quad. Map St. Matthew, Alaska Quad. Co||, Date 19 July 1997
-Collector Stephen & Sandra Talbot # SM97-132
-Det. John W. Thomson 1998
-
-   1 
-
+Latitude 60° 33.579'N Longitude 172° 56.891'W Elevation 30 ID Habitat Empetrum nigrum-Cladina heath at base of mountain
+Quad. Map St. Matthew, Alaska Quad Collector Stephen & Sandra Talbot Det. John W. Thomson 1998
+Coil. Date 19 July 1997 # SM97-132

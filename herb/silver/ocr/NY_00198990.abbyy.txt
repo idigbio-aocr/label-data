@@ -1,12 +1,14 @@
-6 7 8 9 10 _ M v
+﻿6	7	8	9	10	_ M v
 The New York
 copyright reserved Botanical Garden
 From THE UNITED STATES NATIONAL HERBARIUM
-26168	FOREST SERVICE HERBARIUM
+26168
+FOREST SERVICE HERBARIUM
 Polyscias guilfoylei (Bull) Bailey
 (Araliaceae) gallego Shrub or small tree. Bark gray, smooth, slightly warty.
 Planted as ornamental.
-Univ. Puerto Rico Agr. Exp. Sta., Rio Piedras, Puerto Rico. Altitude 50ft»
-no26168 Elbert L. Little, Jr., and collector Roy 0. Woodbury March 27» 1972
+Univ. Puerto Rico Agr. Exp. Sta., Rio Piedras, Puerto Rico. Altitude 50 ft«
+no26168	Elbert L. Little, Jr., and
+collector Roy 0. Woodbury March 27» 1972
 4200-2 (5/64)
 00198990

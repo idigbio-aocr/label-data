@@ -1,13 +1,12 @@
-The University of Texas Herbarium (LL, TEX) Capraria biflora L.
+﻿0 1 lem
+6	7	8	9	10
+copyright reserved
+The New York
+Botanical Garden
+■v
+The University of Texas Herbarium (LL, TEX)
+Capraria biflora L.
 Det: J. Williams & B.L. Turner, 30 Jul 1996
 THE NEW YORK BOTANICAL GARDEN
-Plants collected in
-Grand Turk, August 27-September 1
-George V. Nash i Norman Taylor i
-alt.
-BOTANICAL garden
-O13344O3
-	■i m a ■■ mm 0 1	23456789 10 copyright reserved	I I «ni $	
-	■ ■ U ■ ■■■ cm		The New York Botanical Garden	
-/			\	
+Grand Turk, August 27-September 1.
 01334403

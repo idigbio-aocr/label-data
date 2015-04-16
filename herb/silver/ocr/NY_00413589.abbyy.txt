@@ -1,13 +1,14 @@
-6 7 8 9 10
-. ..	The New York
+﻿3456789	10	L^mmi
+. ,	The New York
 copyright reserved botanical Garden
 PLANTS OF DOMINICA, LESSER ANTILLES
-Myriophyllum aquaticum (Veil.) Verde. Haloragaceae Det. S.R.Hill 9/93
-ST. PAUL PARISH. Morne Daniel Road above Canefield above partially built hotel. Canefield, elevation ca 300 ft. Locally common, partly submersed, partly erect emergent herb.
-Steven R. Hill 24713	10 March 1993
+Verde.
 BOTANICAL
-GARDE**
+Qarde*L
 NEW YORK BOTANICAL GARDEN
-3589
-004-
+00413589
+Myriophyllum aguaticum (Veil Haloragaceae Det. S.R.Hill 9/93
+ST. PAUL PARISH. Morne Daniel Road above Canefieid above partially built hotel. Canefieid, elevation ca 300 ft. Locally common, partly submersed, partly erect emergent herb.
+Steven R. Hill 24713
+10 March 1993
 00413589

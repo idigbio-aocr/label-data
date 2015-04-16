@@ -1,0 +1,8 @@
+﻿AKFWS HERBARIUM ** FLORA of ALASKA	^	A
+Cetraria	SVss
+Location Selawik NWR
+Latitude 66033'41.6" N Longitude 158° 59’56.6" W Elévation 11 ft
+Habitat Eriophorum vaginatum-Ledum decumbens-Rubus chamaemorus-Sphagnum bog
+Quad. Map Shungnak (C-6) Alaska	Coil.	Date	19	July	2003
+Collector Stephen S. Talbot	#	228A
+Det. John W. Thomson November 2003

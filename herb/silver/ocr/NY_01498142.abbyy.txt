@@ -1,16 +1,10 @@
-IBI
-8 9 10
-' w "	The New York
+﻿The New York
 copyright reserved Botanical Garden
 PLANTS OF BAHAMA ISLANDS
 Polypremum procumbens L.
 Great Inagua: on flat gravelly soil along canal near Lighthouse just south of Matthew Town.
 August 18, 1975
-YO
-BOTANICAL Garden
-NEW YORK BOTANICAL GARDEN
-01498142
 D.S. Correli 46023
-Herbarium
-FAIRCHILD TROPICAL GARDEN
+01498142
+Herbarium FAIRCHILD TROPICAL GARDEN
 01498142

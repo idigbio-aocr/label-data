@@ -1,13 +1,13 @@
-V
+﻿V
 						
-1	2 1	CO	1	4	1	5
+1	2 1	CO	1	4	1	hoi
 /
 M- '■ ■
 I :.\i. ' ' .
 [ U.C. Berkeley S EMEC 609,976
 ■ CAL:Antioch Natl. I Wildl. Pres. (LC) ,s‘.
 jl Contra Costa Qa. i
-• VII1-21-81 PowellM
+• VII1-21-81 Powell..
 if Eriogonum nudum i
 M
 iSf
@@ -15,5 +15,5 @@ iSf
 »I S, ■ >
 V' -
 IP
-lldJ'l
+lyi
 Timberlakena yucaipa

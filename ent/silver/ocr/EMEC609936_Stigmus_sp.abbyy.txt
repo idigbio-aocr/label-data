@@ -1,8 +1,6 @@
-■stiqmus sp.
-U.C. Berkeley
-EMEC 609,936
-CALIF:Mendocino Co. Inglenook Fen
-4	mi.N.Ft. Bragg,
+﻿■stiqmus sp.
+U.C. Berkeley EMEC 609,936
+CALIF:Mendocino Co. Inglenook Fen 4 mi.N.Ft. Bragg,
 VII-2-75 ME Buegler E.I.Schlinger
 Univ. Colif.
 Insect Survey Specimen #,

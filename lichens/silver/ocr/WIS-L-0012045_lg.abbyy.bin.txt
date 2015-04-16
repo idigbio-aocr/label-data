@@ -1,0 +1,8 @@
+﻿AKFWS HERBARIUM ** FLORA of ALASKA / S3
+Cetraria	^
+p_	—r
+Location Glory of Russia Cape area, St. Matthew Island, Alaska
+Latitude 60° 33.436 N Longitude 172° 55.950 W Elevation 33 m Habitat Carex aquatilis-Wchen peatland
+Quad. Map St. Matthew, Alaska Quad.	coil.	Date	20 July 1997
+Collector Stephen & Sandra Talbot	#	SM97-158
+Det. John W. Thomson 1998

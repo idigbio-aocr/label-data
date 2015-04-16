@@ -1,15 +1,10 @@
-y
-NEW YORK BOTANICAL GARDEN
-	III I	II	I		jB
-014		I98098			// l/l
-Mitreola petiolata (J. F. Gmel.) Torr. & Gray
+﻿Mitreola petiolata (J. F. Gmel.) Torr. & Gray
 Det. A. J. M. Leeuwenberg, 197-tyHerbarium Vadense (WAG)
 THE NEW YORK BOTANICAL GARDEN
 EXPLORATION OF CUBA
-Province of Havana Wet coastal savanna, Batabano
-uL <i,Co
-N. L, Britton	\	/
+Province of Havana Wet coastal savanna, Batasano
+ßu 'i/Co
+N. L. BRITTON	)	/
 j. f. Cowell	¿Collectors
-Carlos de la torre '	April 12,1912
+Carlos de la torre '	April	12.1912
 u>X
-.2 #5*

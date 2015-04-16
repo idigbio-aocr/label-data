@@ -1,17 +1,6 @@
-AKFWS HERBARIUM ** FLORA of ALASKA U 0. 5.”
-
-Co-(,Qp cm.-—JLuv\ \44uA_‘C6‘§.kM& <AdA_\ L\Q_\_._'._,_&¢4,\
-
-Location Simeonof ls.; Shumagin Islands, Alaska; NE corner of Hill
-1436
-
-.atitude 540 54-1' N Longitude 1590 16-1' W Elevation 230 m
-
-Habitat On mosses over boulder in Salix arctica-Carex
-macrochaeta meadow
-
-Quad. Map Simeonof Island (D-1), Alaska Coll. Date 26 July 1995
-
-Collector Stephen S. Talbot & Sandra L. Talbot # 405
-Det. John W. Thomson 1997
-
+﻿AKFWS HERBARIUM ** FLORA of ALASKA
+Location Simeonof Is.; Shumagin Islands, Alaska; NE corner of Hill 1436
+.atitude 54° 54.1' N	Longitude 159° 16.1' W Elevation 230 m
+Habitat On mosses over boulder in Salix arctica-Carex macrochaeta meadow
+Quad. Map Simeonof Island (D-1), Alaska coil. Date 26 July 1995
+Collector Stephen S. Talbot & Sandra L. Talbot # 405 Det. John W. Thomson 1997

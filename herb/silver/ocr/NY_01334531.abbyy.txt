@@ -1,12 +1,13 @@
-f
-/y^/z
+﻿COLUMBIA UNIVERSITY,
+NEW YORK.
+s
 EX HERB. HOET. REG. KEW.
 NEW YORK BOTANICAL GARDEN
-334531
-W YO/^ BOTANICAL
-REVISIONARY studies IN LINDERNIA ALLIonI
-Lindernia diffusa (L.) Wettst.
-Det. D. A. Qualls	15 June 1984
+01334531
+REVISIONARY STUDIES IN LINDERNIA ALLIONI
+Lindernia diffusa (L.)
+Wettst. 15 June
+Det. D. A. Qualls	15	June	1984
 University of North Carolina,Chapel Hill
-St. Vincents : Coll. H. H. & G. W. Smith Comm. F. D. Qodman, F.R.S., March, 1890.
+St. Vincents : Coll. H. H. & G. W. Smith Comm. F. D. Godman, F.R.S., March, 1890.
 01334531

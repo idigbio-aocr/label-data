@@ -1,19 +1,8 @@
-AKFWS HERBARIUM ** FLORA of ALASKA 0 2-’)
-5. MAL
-
-Cetraria Qcu U1)‘ 03%; (2; Q S)
-
-'-
-
+﻿AKFWS HERBARIUM ** FLORA of ALASKA
+Cetraria	Qgs>s
 Location Selawik NWR
-
-Latitude 66°33'41.6" N Longitude 158° 59' 56.6"W Elevation 11 ft
-
-Habitat On feathermosses in Picea mariana-Vaccinium uliginosum/V.
-vitis-idaea-Pleurozium schreberi woodland
-
-Quad. Map Shungnak (C-6) Alaska Coll. Date 19 July 2003
-
-Collector Stephen S. Talbot # 227A
+Latitude 66°33'41.6" N Longitude 158° 59' 56.6" W Elevation 11 ft
+Habitat On feathermosses in Picea mariana-Vaccinium uliginosumA/. vitis-idaea-Pleurozium schreberi woodland
+Quad. Map Shungnak (C-6) Alaska	Coil.	Date	19	July	2003
+Collector Stephen S. Talbot	#	227A
 Det. John W. Thomson November 2003
-

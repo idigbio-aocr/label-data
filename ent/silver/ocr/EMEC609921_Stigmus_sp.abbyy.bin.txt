@@ -1,0 +1,6 @@
+﻿U.C Berkeley EMEC 609,921 ' Flight	'
+1	.	r	;
+4 trap
+CALIF:Monterey Co.
+5 air mi SW Greenfield, Arroyo £eoo River 4001 V-5-75 E.Rogers
+\

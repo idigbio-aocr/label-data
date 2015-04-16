@@ -1,18 +1,10 @@
-Io 1
-I cm
-8 9 10
-The New York
-copyright reserved Botanical Garden
-PLANTS OF BAHAMA ISLANDS
-Cynoctonum mitreola (L.) Britt«
-new Yo^
-botanical
+﻿PLANTS OF BAHAMA ISLANDS Cynoctonum mitreola (L.) Britt.
 NEW YORK BOTANICAL GARDEN
-01498065
-North Andros: in swale in savannah along Bail Road, south of Twin Lakes Farm turn-off.
+North Andros:	in	swale	in	savannah	along	Bail
+Road, south of Twin Lakes Farm turn-off.
 Flowers whitish.
-December 8, 1976
-D.S. Correli § G.R.Proctor 47839
+December 8, 1976 D.S. Correli § G.R.Proctor 47839
+01498065
 Herbarium
 FAIRCHILD TROPICAL GARDEN
 01498065

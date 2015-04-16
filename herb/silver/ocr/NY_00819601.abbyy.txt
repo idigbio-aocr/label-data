@@ -1,19 +1,17 @@
-o 1
-cm
-6 7 8 9 10
+﻿6	7	8	9	10
 The New York
 copyright reserved botanical Garden
 <ny>IMAGED
 NEW YORK BOTANICAL GARDEN
-0081960
+00819601
 Ludwigia peploides (HBK.) Raven subsp. peploides
 Determined by Elsa Zardini 1986 Missouri Botanical Garden'
-REVISION OF JUSSIAEA J. repens L.	C
+REVISION OF JUSSIAEA J. repens L.	C	W^
 Philip A. Munz
 , 1939
+NEW YORK BOTANICAL GARDEN CARNEGIE INSTITUTION OF WASHINGTON UNITED STATES NATIONAL MUSEUM WEST INDIAN EXPLORATION 19«3 , „ guayanilla to tallahoa, porto Rico
+no IfJL	A
 Ludvigia sect. Oligospermum
-Determined by T-p- Ramamoorthy 1980 Missouri Botanical Garden
-NEW YORK BOTANICAL GARDEN CARNEGIE INSTITUTION OF WASHINGTON UNITED STATES NATIONAL MUSEUM WEST INDIAN EXPLORATION t9«3 , „ guayanilla to tallahoa. porto Rico
-H.////T	_	A
-J. A. SHAFER, COLLECTOR
+Determined by T.P. Ramamoorthy 1980 Missouri Botanical Garden
+j. a. Shafer, Collector
 MARCH 13, 1913

@@ -1,31 +1,17 @@
-LICHENS OF SOUTHEAST ALASKA
-
-3
-
-1 U.5.D.A. FOREST SERVICE HERBARIUM 8 8 5
-; _ . . TNFS# L-
-
- scneurmc NAME:Qa:\’Y‘ouC\.0g ;5\o.p_¢§ ; ¢5._[ L _) Adm .
-
- C - Dexr \°\°l2_ 6. mc.C.uv\L
-
-} (Detennined) (Year) ( Veriﬁed)
-
-F°RE5T/E""T- AREA‘ Toﬁgass National Forest/ Stikine Area
-
-L03“-‘TY: Mitkof Is. Crystal Mt. NE Ridge, Petersburg C-3, Section 18NW,
-T613, R811‘:
-
-5505- "‘—A"T5‘ Tsuga mertensiana, Vaccinium ssp., Picea sitchensis,
-
-Phyllodoce galnduliﬂora, Empetrum nigrum,
-
-ALT. (m .) 805
-«ones: on ground
-MAT. CHEN-= CHEMICAL TESTS:
-
-P._
-C ' Défv 1 Aug 1991
-
-(Collector) (Number) (Date)
-
+﻿LICHENS OF SOUTHEAST ALASKA U.S.D.A. FOREST SERVICE HERBARIUM
+885
+C • 0err
+(Determined) (Year)	(	Verified)
+forest/expt. area:	Tongass	National Forest/ Stikine Area
+LOCALITY:	Mitkof	Is. Crystal Mt. NE Ridge, Petersburg C-3, Section 18NW,
+T61S, R81E
+assoc, plants:	Tsuga	mertensiana,	Vaccinium	ssp.,	Picea	sitchensis,
+Phyllodoce galnduliflora, Empetrum nigrum,
+ALT. (m.)	805
+NOTES: or\ a rcsuv^cl
+MAT. CHEM.:	CHEMICAL	TESTS:
+9-
+C.
+1 Aug 1991
+(Number)
+(Date)

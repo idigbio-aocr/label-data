@@ -1,0 +1,13 @@
+_                     _<barcode type="39" chars="10" code="*01075822*" crc="N" error="0.104" />
+_<barcode type="39" chars="4" code="822*" crc="2" error="0.161" />
+         __
+The New York Botanical G_rden
+_           cRy_ToGAMs oF FLoRTDA, u.s.A.
+_Artho _ renia _cinchonae (Ach.) Müll. Arg.
+on _Rhus
+
+Bay CounTy: N of Fla Hwy 20, 1.2 mi E of US 231,
+30026'N, 85024'W; open oah scrub.
+1December 1994
+William R. Buck 27252
+o1o75822

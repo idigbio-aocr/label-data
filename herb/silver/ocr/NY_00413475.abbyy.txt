@@ -1,12 +1,11 @@
-6 7 8 9 10
-. . .	. The New York
+﻿6	7	8	9	10
+. . .	.	The New York
 Copyright reserved Botanical Garden
 BOTANICAL
-GARDE**
-no 8651 PAM...A Oleaceae_
-Jasmiñium.fluminense Veil, det. 1-1982.
-fl..white, perfume odor; fr. 1 cm. black with red-purple juice;
-República Dominicana: Prov. San Pedro de Macoris: center of town at Boca de Soco*; (mouth of river); in fence row on town to La Romana -San Pedro de Macoris road. 18°271N, 69°J3'W, alt. to 10 m.
-October 15, 1980 M.Mejia, T. Zanoni
 JARDIN BOTANICO NACIONAL DR. RAFAEL M. MOSCOSO
 SANTO DOMINGO, REPUBLICA DOMINICANA
+NO 8651 famii ia	Oleaceae_________________
+Jasmiriium fluminense Veil, det.1-1982.
+fl..white, perfume odor; fr. 1 cm. black with red-purple juice;
+República Dominicana: Prov. San Pedro de Macoris: center of town at Boca de Soco*; (mouth of river); in fence row on town to La Romana -San Pedro de Macoris road. 18°271N, es°]3'\l, alt. to 10 m.
+October 15, 1980 M.Mejia, T. Zanoni

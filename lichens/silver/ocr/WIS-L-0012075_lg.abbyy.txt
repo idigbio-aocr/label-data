@@ -1,24 +1,9 @@
-AKFWS HERBARIUM **
-
-FLORA of ALASKA [(345
-
-C‘u.»w:a q,tx.M+««: (§t~.5,) so/<m~7
-
+﻿> t z~ ( 2
+AKFWS HERBARIUM ** FLORA of ALASKA
+Co Iv o-Vi < ^ tX.
 Location Selawik NWR
-
-Latitude 66°50'13.8" N
-Habitat Epiphytic on A/nus viridis
-
-Quad. Map Selawik (D-5) Alaska
-Collector Stephen S. Talbot
-Det. John W. Thomson
-
-Longitude 161° 38' 03.3" W
-
+Latitude 66°50'13.8" N Longitude 161° 38’03.3" W Habitat Epiphytic on Alnus viridis
 Elevation 10 ft
-
-Coll. Date 28 July 2003
-# 458
-
-November 2003
-
+Quad. Map Selawik (D-5) Alaska	Coil.	Date	28	July	2003
+Collector Stephen S. Talbot	#	458
+Det. John W. Thomson November 2003

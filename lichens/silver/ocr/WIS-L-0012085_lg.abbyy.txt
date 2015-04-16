@@ -1,15 +1,9 @@
-AKFWS HERBARIUM ** FLORA of ALASKA (N3
-Cetraria dlxlztiaaé (g2)C,uD',‘;_1,.
-
-Location Glory of Russia Cape area, St. Matthew Island, Alaska
-Latitude 600 33-130' N Longitude 1720 55-612‘ W Elevation 13 m
-
-Habitat On humus of eroding streamlet bank on terrace above beach
-
-Quad. Map St. Matthew, Alaska Quad. Coll. Date 18 July 1997
-
-Collector Stephen & Sandra Talbot . # SM97—O13
+﻿AKFWS HERBARIUM ** FLORA of ALASKA
+6(3
+Cetraria	e:	(
+Location Glory of Russia Cape area, St. Matthew Island, Alaska Latitude 60° 33.130 N Longitude 172° 55.612 W Elevation 13 m Habitat On humus of eroding streamlet bank on terrace above beach
+Quad. Map St. Matthew, Alaska Quad.	coil.	Date	18 July 1997
+Collector Stephen & Sandra Talbot	#	SM97-013
 Det. John W. Thomson 1998
-
- 
-
+IP
+-
